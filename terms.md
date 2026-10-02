@@ -4,7 +4,7 @@ DRAFT — replace bracketed fields and review before publishing.
 
 ## Agreement and eligibility
 
-These Terms govern use of MuayBot, its Discord commands, optional dashboard, and connected game-server features. MuayBot is operated by [OPERATOR NAME] (the “Operator”). Contact: [SUPPORT EMAIL]. Effective date: [PUBLICATION DATE]. By using MuayBot, you agree to these Terms. You must meet Discord’s minimum age and any higher minimum age required where you live. If you cannot legally agree to these Terms yourself, your parent or guardian must agree on your behalf. Discord’s own terms and applicable game and hosting-provider rules also apply.
+These Terms govern use of MuayBot, its Discord commands, optional dashboard, and connected game-server features. MuayBot is operated by TwinPR (the “Operator”). Contact: razortied@gmail.com. Effective date: 10/2/2026. By using MuayBot, you agree to these Terms. You must meet Discord’s minimum age and any higher minimum age required where you live. If you cannot legally agree to these Terms yourself, your parent or guardian must agree on your behalf. Discord’s own terms and applicable game and hosting-provider rules also apply.
 
 ## What MuayBot provides
 
@@ -32,4 +32,4 @@ We may maintain, change, or discontinue features, and may suspend access for mis
 
 ## Limitations and changes
 
-To the extent permitted by applicable law, MuayBot is supplied as available without a guarantee of uninterrupted operation, compatibility with every host, error-free automation, or successful item delivery. We are not responsible for failures outside our reasonable control. Nothing in these Terms excludes liability that cannot lawfully be excluded, including applicable consumer protections. We may update these Terms and will show the new effective date. Material changes will be communicated through the service or support channel before taking effect where reasonably practicable. Contact [SUPPORT EMAIL] with questions.
+To the extent permitted by applicable law, MuayBot is supplied as available without a guarantee of uninterrupted operation, compatibility with every host, error-free automation, or successful item delivery. We are not responsible for failures outside our reasonable control. Nothing in these Terms excludes liability that cannot lawfully be excluded, including applicable consumer protections. We may update these Terms and will show the new effective date. Material changes will be communicated through the service or support channel before taking effect where reasonably practicable. Contact razortied@gmail.com with questions.
