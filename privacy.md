@@ -1,10 +1,8 @@
 # MuayBot Privacy Policy
 
-DRAFT — replace bracketed fields and review before publishing.
-
 ## Who this policy covers
 
-This policy explains how [OPERATOR NAME], operator of MuayBot, processes information through the bot and its optional dashboard. Contact for privacy questions, corrections, access, or deletion: [SUPPORT EMAIL]. Effective date: [PUBLICATION DATE]. Community owners separately control their Discord channels and connected game servers. Their handling of information outside MuayBot is governed by their own practices.
+This policy explains how TwinPR, operator of MuayBot, processes information through the bot and its optional dashboard. Contact for privacy questions, corrections, access, or deletion: razortied@gmail.com. Effective date: 10/2/2026. Community owners separately control their Discord channels and connected game servers. Their handling of information outside MuayBot is governed by their own practices.
 
 ## Information processed
 
@@ -28,7 +26,7 @@ MuayBot stores persistent operational records in a server-side SQLite database. 
 
 ## Your choices and requests
 
-Email [SUPPORT EMAIL] to request access, correction, or deletion of your information. Include your Discord user ID and, when relevant, the community ID so we can find the right records. Never send passwords, tokens, or RCON credentials. We may ask for proportionate proof that the account or community is yours. We respond promptly and within applicable legal time limits. Deletion can remove linked usernames, virtual progress, and other features that depend on the deleted records. You may stop using the bot or revoke Discord authorization. Records held independently by Discord, community administrators, or game hosts must also be addressed with those parties. Depending on your location, you may have additional rights to portability, restriction, objection, withdrawal of consent where relied on, or a complaint to your local data-protection authority.
+Email razortied@gmail.com to request access, correction, or deletion of your information. Include your Discord user ID and, when relevant, the community ID so we can find the right records. Never send passwords, tokens, or RCON credentials. We may ask for proportionate proof that the account or community is yours. We respond promptly and within applicable legal time limits. Deletion can remove linked usernames, virtual progress, and other features that depend on the deleted records. You may stop using the bot or revoke Discord authorization. Records held independently by Discord, community administrators, or game hosts must also be addressed with those parties. Depending on your location, you may have additional rights to portability, restriction, objection, withdrawal of consent where relied on, or a complaint to your local data-protection authority.
 
 ## Children, international processing, and updates
 
