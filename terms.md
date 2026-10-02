@@ -1,7 +1,5 @@
 # MuayBot Terms of Service
 
-DRAFT — replace bracketed fields and review before publishing.
-
 ## Agreement and eligibility
 
 These Terms govern use of MuayBot, its Discord commands, optional dashboard, and connected game-server features. MuayBot is operated by TwinPR (the “Operator”). Contact: razortied@gmail.com. Effective date: 10/2/2026. By using MuayBot, you agree to these Terms. You must meet Discord’s minimum age and any higher minimum age required where you live. If you cannot legally agree to these Terms yourself, your parent or guardian must agree on your behalf. Discord’s own terms and applicable game and hosting-provider rules also apply.
